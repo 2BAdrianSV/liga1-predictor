@@ -1,0 +1,135 @@
+Día,Fecha,Hora,Local,Marcador,Visitante,Resultado,Sedes,Árbitro,Goles Local,Goles Visitante,Resultado Codificado
+Vie,2025-02-07,15:00:00,Sport Huancayo,2–1,Alianza Atlético,Ganó Local,Estadio Huancayo,Augusto Menéndez,0.3333333333333333,0.25,1
+Sáb,2025-02-08,13:00:00,Melgar,3–0,Utc,Ganó Local,Estadio de la Universidad Nacional San A...,Julio Quiróz,0.5,0.0,1
+Sáb,2025-02-08,15:15:00,Atlético Grau,1–0,Ayacucho,Ganó Local,Estadio Campeones del 36,Boris Santos,0.1666666666666667,0.0,1
+Dom,2025-02-09,13:00:00,Alianza Univ,2–2,Sporting Cristal,Empate,Estadio Heraclio Tapia León,Jordy Espinoza,0.3333333333333333,0.5,0
+Dom,2025-02-09,15:00:00,Sport Boys,1–0,Juan Pablo Ii,Ganó Local,Estadio Miguel Grau del Callao,Roberto Pérez,0.1666666666666667,0.0,1
+Dom,2025-02-09,15:30:00,Comerciantes Unidos,1–1,Universitario,Empate,Estadio Municipal Germán Contreras Jara,Micke Palomino,0.1666666666666667,0.25,0
+Dom,2025-02-09,18:00:00,Cienciano,2–2,Adt Tarma,Empate,Estadio Inca Garcilaso de la Vega,Joel Alarcón,0.3333333333333333,0.5,0
+Sáb,2025-02-08,19:00:00,Alianza Lima,3–0,Cusco,Ganó Local,Estadio Alejandro Villanueva,Daniel Ureta,0.5,0.0,1
+Lun,2025-02-10,15:00:00,Cdc Santa Rosa,2–2,Deportivo Garcilaso,Empate,Estadio El Prado,Jesús Cartagena,0.3333333333333333,0.5,0
+Vie,2025-02-14,11:00:00,Utc,0–4,Binacional,Ganó Visita,Estadio Municipal Germán Contreras Jara,Pablo López,0.0,1.0,2
+Vie,2025-02-14,17:30:00,Cusco,0–1,Melgar,Ganó Visita,Estadio Inca Garcilaso de la Vega,Jordy Espinoza,0.0,0.25,2
+Sáb,2025-02-15,13:00:00,Adt Tarma,4–3,Atlético Grau,Ganó Local,Estadio Municipal Unión de Tarma,Victor Cori,0.6666666666666666,0.75,1
+Sáb,2025-02-15,15:30:00,Alianza Atlético,3–1,Alianza Lima,Ganó Local,Estadio Mansiche,Kevin Ortega,0.5,0.25,1
+Dom,2025-02-16,11:00:00,Sporting Cristal,2–1,Sport Boys,Ganó Local,Estadio Alberto Gallardo,Daniel Ureta,0.3333333333333333,0.25,1
+Dom,2025-02-16,13:15:00,Juan Pablo Ii,0–1,Sport Huancayo,Ganó Visita,Estadio Mansiche,Micke Palomino,0.0,0.25,2
+Dom,2025-02-16,15:30:00,Deportivo Garcilaso,2–1,Comerciantes Unidos,Ganó Local,Estadio Inca Garcilaso de la Vega,César Garcia,0.3333333333333333,0.25,1
+Sáb,2025-02-15,19:30:00,Universitario,3–2,Cienciano,Ganó Local,Estadio Monumental U Marathon,Roberto Pérez,0.5,0.5,1
+Lun,2025-02-17,15:00:00,Ayacucho,3–2,Alianza Univ,Ganó Local,Estadio Manuel Eloy Molina Robles,Robin Segura Tuanama,0.5,0.5,1
+Sáb,2025-02-22,13:00:00,Comerciantes Unidos,1–1,Cdc Santa Rosa,Empate,Estadio Municipal Germán Contreras Jara,Jordy Espinoza,0.1666666666666667,0.25,0
+Sáb,2025-02-22,15:00:00,Sport Boys,2–1,Ayacucho,Ganó Local,Estadio Miguel Grau del Callao,Jonathan Zamora,0.3333333333333333,0.25,1
+Sáb,2025-02-22,15:30:00,Sport Huancayo,0–1,Sporting Cristal,Ganó Visita,Estadio Huancayo,Edwin Ordóñez,0.0,0.25,2
+Vie,2025-02-21,20:00:00,Alianza Lima,1–0,Juan Pablo Ii,Ganó Local,Estadio Alejandro Villanueva,Augusto Menéndez,0.1666666666666667,0.0,1
+Dom,2025-02-23,13:00:00,Alianza Univ,2–3,Adt Tarma,Ganó Visita,Estadio Heraclio Tapia León,Boris Santos,0.3333333333333333,0.75,2
+Sáb,2025-02-22,19:00:00,Cienciano,2–3,Deportivo Garcilaso,Ganó Visita,Estadio Inca Garcilaso de la Vega,Diego Haro,0.3333333333333333,0.75,2
+Lun,2025-02-24,18:00:00,Binacional,1–2,Cusco,Ganó Visita,Estadio Guillermo Briceño Rosamedina,Julio Quiróz,0.1666666666666667,0.5,2
+Dom,2025-02-23,19:00:00,Melgar,2–1,Alianza Atlético,Ganó Local,Estadio de la Universidad Nacional San A...,Michael Espinoza,0.3333333333333333,0.25,1
+Jue,2025-02-27,15:30:00,Adt Tarma,2–2,Sport Boys,Empate,Estadio Municipal Unión de Tarma,Joel Alarcón,0.3333333333333333,0.5,0
+Vie,2025-02-28,15:00:00,Deportivo Garcilaso,2–0,Atlético Grau,Ganó Local,Estadio Inca Garcilaso de la Vega,Jordy Espinoza,0.3333333333333333,0.0,1
+Sáb,2025-03-01,13:00:00,Cusco,1–1,Utc,Empate,Estadio Inca Garcilaso de la Vega,Robin Segura Tuanama,0.1666666666666667,0.25,0
+Sáb,2025-03-01,15:30:00,Alianza Atlético,4–1,Binacional,Ganó Local,Estadio Campeones del 36,Victor Cori,0.6666666666666666,0.25,1
+Dom,2025-03-02,13:00:00,Ayacucho,1–1,Sport Huancayo,Empate,Estadio Ciudad de Cumaná,Jesús Cartagena,0.1666666666666667,0.25,0
+Dom,2025-03-02,18:00:00,Universitario,4–0,Alianza Univ,Ganó Local,Estadio Monumental U Marathon,Edwin Ordóñez,0.6666666666666666,0.0,1
+Sáb,2025-03-01,20:00:00,Sporting Cristal,1–2,Alianza Lima,Ganó Visita,Estadio Alberto Gallardo,Michael Espinoza,0.1666666666666667,0.5,2
+Vie,2025-03-07,13:00:00,Alianza Univ,0–0,Deportivo Garcilaso,Empate,Estadio Heraclio Tapia León,Hibert Villegas,0.0,0.0,0
+Sáb,2025-03-08,13:00:00,Utc,0–0,Alianza Atlético,Empate,Estadio Municipal Germán Contreras Jara,César Garcia,0.0,0.0,0
+Sáb,2025-03-08,15:30:00,Sport Huancayo,2–1,Adt Tarma,Ganó Local,Estadio Huancayo,Sebastián Lozano,0.3333333333333333,0.25,1
+Sáb,2025-03-08,18:00:00,Melgar,1–0,Sporting Cristal,Ganó Local,Estadio de la Universidad Nacional San A...,Roberto Pérez,0.1666666666666667,0.0,1
+Vie,2025-03-07,20:00:00,Alianza Lima,2–0,Ayacucho,Ganó Local,Estadio Alejandro Villanueva,Julio Quiróz,0.3333333333333333,0.0,1
+Dom,2025-03-09,15:00:00,Sport Boys,0–2,Universitario,Ganó Visita,Estadio Nacional,Micke Palomino,0.0,0.5,2
+Lun,2025-03-10,15:00:00,Atlético Grau,2–1,Cdc Santa Rosa,Ganó Local,Estadio Municipal Bernales,Edwin Ordóñez,0.3333333333333333,0.25,1
+Lun,2025-03-10,18:00:00,Binacional,2–0,Juan Pablo Ii,Ganó Local,Estadio Guillermo Briceño Rosamedina,Daniel Ureta,0.3333333333333333,0.0,1
+Dom,2025-03-09,19:30:00,Cienciano,3–2,Comerciantes Unidos,Ganó Local,Estadio Inca Garcilaso de la Vega,Pablo López,0.5,0.5,1
+Dom,2025-03-23,15:00:00,Cdc Santa Rosa,0–0,Cienciano,Empate,Estadio Los Chankas,Daniel Ureta,0.0,0.0,0
+Jue,2025-03-27,13:00:00,Comerciantes Unidos,2–2,Atlético Grau,Empate,Estadio Municipal Germán Contreras Jara,Sebastián Lozano,0.3333333333333333,0.5,0
+Jue,2025-03-27,15:30:00,Ayacucho,2–3,Melgar,Ganó Visita,Estadio Manuel Eloy Molina Robles,Diego Haro,0.3333333333333333,0.75,2
+Vie,2025-03-28,15:30:00,Alianza Atlético,2–4,Cusco,Ganó Visita,Estadio Campeones del 36,Italo Carmona,0.3333333333333333,1.0,2
+Sáb,2025-03-29,13:00:00,Adt Tarma,3–0,Alianza Lima,Ganó Local,Estadio Municipal Unión de Tarma,Kevin Ortega,0.5,0.0,1
+Sáb,2025-03-29,15:30:00,Sporting Cristal,5–0,Binacional,Ganó Local,Estadio Alberto Gallardo,Boris Santos,0.8333333333333333,0.0,1
+Sáb,2025-03-29,18:00:00,Deportivo Garcilaso,4–0,Sport Boys,Ganó Local,Estadio Inca Garcilaso de la Vega,Robin Segura Tuanama,0.6666666666666666,0.0,1
+Vie,2025-03-28,20:00:00,Universitario,3–1,Sport Huancayo,Ganó Local,Estadio Alejandro Villanueva,Augusto Menéndez,0.5,0.25,1
+Dom,2025-03-30,13:00:00,Cdc Santa Rosa,3–1,Alianza Univ,Ganó Local,Estadio Los Chankas,Michael Espinoza,0.5,0.25,1
+Dom,2025-03-30,15:30:00,Juan Pablo Ii,4–2,Utc,Ganó Local,Estadio de la Juventud,Joel Alarcón,0.6666666666666666,0.5,1
+Vie,2025-04-04,17:30:00,Binacional,1–1,Ayacucho,Empate,Estadio Guillermo Briceño Rosamedina,Sebastián Lozano,0.1666666666666667,0.25,0
+Sáb,2025-04-05,10:15:00,Atlético Grau,1–1,Cienciano,Empate,Estadio Campeones del 36,Jonathan Zamora,0.1666666666666667,0.25,0
+Sáb,2025-04-05,15:15:00,Melgar,4–0,Adt Tarma,Ganó Local,Estadio de la Universidad Nacional San A...,Kevin Menéndez Lagos,0.6666666666666666,0.0,1
+Vie,2025-04-04,20:00:00,Sport Huancayo,0–3,Deportivo Garcilaso,Ganó Visita,Estadio Huancayo,Jesús Cartagena,0.0,0.75,2
+Dom,2025-04-06,13:15:00,Cusco,4–2,Juan Pablo Ii,Ganó Local,Estadio Inca Garcilaso de la Vega,Roberto Pérez,0.6666666666666666,0.5,1
+Dom,2025-04-06,14:00:00,Sport Boys,1–1,Cdc Santa Rosa,Empate,Estadio Miguel Grau del Callao,Kevin Ortega,0.1666666666666667,0.25,0
+Dom,2025-04-06,15:30:00,Utc,4–1,Sporting Cristal,Ganó Local,Estadio Municipal Germán Contreras Jara,Edwin Ordóñez,0.6666666666666666,0.25,1
+Dom,2025-04-06,18:00:00,Alianza Univ,0–2,Comerciantes Unidos,Ganó Visita,Estadio Heraclio Tapia León,Julio Quiróz,0.0,0.5,2
+Sáb,2025-04-05,19:00:00,Alianza Lima,1–1,Universitario,Empate,Estadio Alejandro Villanueva,Daniel Ureta,0.1666666666666667,0.25,0
+Vie,2025-04-11,13:15:00,Ayacucho,0–1,Utc,Ganó Visita,Estadio Manuel Eloy Molina Robles,Christian Zegarra,0.0,0.25,2
+Vie,2025-04-11,15:30:00,Cdc Santa Rosa,1–3,Sport Huancayo,Ganó Visita,Estadio Los Chankas,Julio Quiróz,0.1666666666666667,0.75,2
+Sáb,2025-04-12,15:30:00,Juan Pablo Ii,1–0,Alianza Atlético,Ganó Local,Estadio de la Juventud,Pablo López,0.1666666666666667,0.0,1
+Dom,2025-04-13,11:00:00,Sporting Cristal,1–0,Cusco,Ganó Local,Estadio Alberto Gallardo,Diego Haro,0.1666666666666667,0.0,1
+Dom,2025-04-13,13:15:00,Comerciantes Unidos,0–4,Sport Boys,Ganó Visita,Estadio Municipal Germán Contreras Jara,Daniel Ureta,0.0,1.0,2
+Dom,2025-04-13,15:30:00,Adt Tarma,1–1,Binacional,Empate,Estadio Municipal Unión de Tarma,Michael Espinoza,0.1666666666666667,0.25,0
+Sáb,2025-04-12,19:00:00,Cienciano,0–1,Alianza Univ,Ganó Visita,Estadio Inca Garcilaso de la Vega,Italo Carmona,0.0,0.25,2
+Dom,2025-04-13,19:00:00,Universitario,4–1,Melgar,Ganó Local,Estadio Monumental U Marathon,Kevin Ortega,0.6666666666666666,0.25,1
+Lun,2025-04-14,19:30:00,Deportivo Garcilaso,0–1,Alianza Lima,Ganó Visita,Estadio Inca Garcilaso de la Vega,Joel Alarcón,0.0,0.25,2
+Vie,2025-04-18,15:00:00,Melgar,1–2,Deportivo Garcilaso,Ganó Visita,Estadio de la Universidad Nacional San A...,Daniel Ureta,0.1666666666666667,0.5,2
+Vie,2025-04-18,17:00:00,Binacional,1–3,Universitario,Ganó Visita,Estadio Guillermo Briceño Rosamedina,Daniel Ureta,0.1666666666666667,0.75,2
+Jue,2025-04-17,20:00:00,Alianza Univ,0–0,Atlético Grau,Empate,Estadio Heraclio Tapia León,Kevin Ortega,0.0,0.0,0
+Sáb,2025-04-19,13:00:00,Sport Boys,2–2,Cienciano,Empate,Estadio Miguel Grau del Callao,Jesús Cartagena,0.3333333333333333,0.5,0
+Sáb,2025-04-19,15:30:00,Alianza Atlético,1–0,Sporting Cristal,Ganó Local,Estadio Campeones del 36,Micke Palomino,0.1666666666666667,0.0,1
+Vie,2025-04-18,20:00:00,Alianza Lima,1–0,Cdc Santa Rosa,Ganó Local,Estadio Alejandro Villanueva,Augusto Menéndez,0.1666666666666667,0.0,1
+Dom,2025-04-20,13:15:00,Utc,0–1,Adt Tarma,Ganó Visita,Estadio Municipal Germán Contreras Jara,Victor Cori,0.0,0.25,2
+Dom,2025-04-20,15:30:00,Sport Huancayo,4–2,Comerciantes Unidos,Ganó Local,Estadio Huancayo,Robin Segura Tuanama,0.6666666666666666,0.5,1
+Sáb,2025-04-19,19:00:00,Cusco,3–0,Ayacucho,Ganó Local,Estadio Inca Garcilaso de la Vega,Michael Espinoza,0.5,0.0,1
+Sáb,2025-04-26,13:00:00,Ayacucho,0–2,Alianza Atlético,Ganó Visita,Estadio Manuel Eloy Molina Robles,Jasmani Chambi,0.0,0.5,2
+Sáb,2025-04-26,18:30:00,Deportivo Garcilaso,0–1,Binacional,Ganó Visita,Estadio Inca Garcilaso de la Vega,Julio Quiróz,0.0,0.25,2
+Dom,2025-04-27,13:15:00,Cdc Santa Rosa,1–1,Melgar,Empate,Estadio Los Chankas,Roberto Pérez,0.1666666666666667,0.25,0
+Dom,,15:30:00,Atlético Grau,3–3,Sport Boys,Empate,Estadio Campeones del 36,Augusto Menéndez,0.5,0.75,0
+Dom,2025-04-27,18:00:00,Universitario,6–0,Utc,Ganó Local,Estadio Monumental U Marathon,Sebastián Lozano,1.0,0.0,1
+Lun,2025-04-28,13:00:00,Sporting Cristal,3–2,Juan Pablo Ii,Ganó Local,Estadio Alberto Gallardo,Michael Espinoza,0.5,0.5,1
+Lun,2025-04-28,15:30:00,Adt Tarma,2–1,Cusco,Ganó Local,Estadio Municipal Unión de Tarma,Pablo López,0.3333333333333333,0.25,1
+Lun,2025-04-28,19:30:00,Cienciano,2–1,Sport Huancayo,Ganó Local,Estadio Inca Garcilaso de la Vega,Jordy Espinoza,0.3333333333333333,0.25,1
+Vie,2025-05-02,15:30:00,Sport Huancayo,3–0,Atlético Grau,Ganó Local,Estadio Huancayo,Joel Alarcón,0.5,0.0,1
+Jue,2025-05-01,19:30:00,Melgar,1–1,Comerciantes Unidos,Empate,Estadio de la Universidad Nacional San A...,Jordy Espinoza,0.1666666666666667,0.25,0
+Sáb,2025-05-03,13:00:00,Utc,2–1,Deportivo Garcilaso,Ganó Local,Estadio Municipal Germán Contreras Jara,Kevin Ortega,0.3333333333333333,0.25,1
+Sáb,2025-05-03,15:30:00,Juan Pablo Ii,0–0,Ayacucho,Empate,Estadio de la Juventud,Daniel Ureta,0.0,0.0,0
+Sáb,2025-05-03,18:30:00,Cusco,2–0,Universitario,Ganó Local,Estadio Inca Garcilaso de la Vega,Edwin Ordóñez,0.3333333333333333,0.0,1
+Vie,2025-05-02,19:30:00,Alianza Lima,0–1,Cienciano,Ganó Visita,Estadio Alejandro Villanueva,Roberto Pérez,0.0,0.25,2
+Dom,2025-05-04,13:00:00,Sport Boys,4–2,Alianza Univ,Ganó Local,Estadio Miguel Grau del Callao,Diego Haro,0.6666666666666666,0.5,1
+Dom,2025-05-04,15:30:00,Alianza Atlético,2–0,Adt Tarma,Ganó Local,Estadio Campeones del 36,Christian Zegarra,0.3333333333333333,0.0,1
+Dom,2025-05-04,18:00:00,Binacional,1–2,Cdc Santa Rosa,Ganó Visita,Estadio Guillermo Briceño Rosamedina,Jesús Cartagena,0.1666666666666667,0.5,2
+Vie,2025-05-09,15:30:00,Comerciantes Unidos,1–1,Binacional,Empate,Estadio Municipal Germán Contreras Jara,Jhonathan Zamora,0.1666666666666667,0.25,0
+Sáb,2025-05-10,12:00:00,Ayacucho,1–4,Sporting Cristal,Ganó Visita,Estadio Manuel Eloy Molina Robles,Kevin Ortega,0.1666666666666667,1.0,2
+Sáb,2025-05-10,15:30:00,Atlético Grau,1–1,Alianza Lima,Empate,Estadio Nacional,Edwin Ordóñez,0.1666666666666667,0.25,0
+Dom,2025-05-11,13:00:00,Cdc Santa Rosa,2–1,Utc,Ganó Local,Estadio Los Chankas,Diego Haro,0.3333333333333333,0.25,1
+Dom,2025-05-11,15:15:00,Adt Tarma,2–2,Juan Pablo Ii,Empate,Estadio Municipal Unión de Tarma,Joel Alarcón,0.3333333333333333,0.5,0
+Dom,2025-05-11,17:30:00,Deportivo Garcilaso,1–3,Cusco,Empate,Estadio Inca Garcilaso de la Vega,Michael Espinoza,0.1666666666666667,0.75,0
+Dom,2025-05-11,18:30:00,Universitario,0–1,Alianza Atlético,Ganó Visita,Estadio Monumental U Marathon,Jordy Espinoza,0.0,0.25,2
+Sáb,2025-05-10,21:00:00,Cienciano,1–2,Melgar,Ganó Visita,Estadio Inca Garcilaso de la Vega,Augusto Menéndez,0.1666666666666667,0.5,2
+Lun,2025-05-12,15:30:00,Alianza Univ,0–1,Sport Huancayo,Ganó Visita,Estadio Heraclio Tapia León,Pablo López,0.0,0.25,2
+Vie,2025-05-16,15:30:00,Alianza Atlético,1–0,Deportivo Garcilaso,Ganó Local,Estadio Campeones del 36,Robin Segura Tuanama,0.1666666666666667,0.0,1
+Sáb,2025-05-17,15:00:00,Utc,2–0,Comerciantes Unidos,Ganó Local,Estadio Municipal Germán Contreras Jara,Jesús Cartagena,0.3333333333333333,0.0,1
+Sáb,2025-05-17,15:30:00,Sporting Cristal,2–1,Adt Tarma,Ganó Local,Estadio Alberto Gallardo,Julio Quiróz,0.3333333333333333,0.25,1
+Sáb,2025-05-17,18:00:00,Cusco,3–3,Cdc Santa Rosa,Empate,Estadio Inca Garcilaso de la Vega,Sebastián Lozano,0.5,0.75,0
+Dom,2025-05-18,13:15:00,Sport Huancayo,1–0,Sport Boys,Ganó Local,Estadio Huancayo,Jordy Espinoza,0.1666666666666667,0.0,1
+Dom,2025-05-18,15:30:00,Juan Pablo Ii,2–0,Universitario,Ganó Local,Estadio Nacional,Micke Palomino,0.3333333333333333,0.0,1
+Dom,2025-05-18,18:00:00,Melgar,1–1,Atlético Grau,Empate,Estadio de la Universidad Nacional San A...,Kevin Ortega,0.1666666666666667,0.25,0
+Lun,2025-05-19,17:30:00,Binacional,1–1,Cienciano,Empate,Estadio Guillermo Briceño Rosamedina,Daniel Ureta,0.1666666666666667,0.25,0
+Lun,2025-05-19,20:00:00,Alianza Lima,2–0,Alianza Univ,Ganó Local,Estadio Alejandro Villanueva,Michael Espinoza,0.3333333333333333,0.0,1
+Vie,2025-05-23,15:30:00,Alianza Univ,1–1,Melgar,Empate,Estadio Heraclio Tapia León,Micke Palomino,0.1666666666666667,0.25,0
+Jue,2025-05-22,21:00:00,Universitario,2–0,Sporting Cristal,Ganó Local,Estadio Monumental U Marathon,Joel Alarcón,0.3333333333333333,0.0,1
+Sáb,2025-05-24,13:00:00,Comerciantes Unidos,1–2,Cusco,Ganó Visita,Estadio Municipal Germán Contreras Jara,Edwin Ordóñez,0.1666666666666667,0.5,2
+Sáb,2025-05-24,15:30:00,Atlético Grau,3–0,Binacional,Ganó Local,Estadio Campeones del 36,Pablo López,0.5,0.0,1
+Sáb,2025-05-24,18:00:00,Cienciano,6–1,Utc,Ganó Local,Estadio Inca Garcilaso de la Vega,Kevin Ortega,1.0,0.25,1
+Vie,2025-05-23,20:00:00,Sport Boys,0–1,Alianza Lima,Ganó Visita,Estadio de la Universidad Nacional Mayor...,Sebastián Lozano,0.0,0.25,2
+Dom,2025-05-25,13:00:00,Adt Tarma,0–1,Ayacucho,Ganó Visita,Estadio Municipal Unión de Tarma,Michael Espinoza,0.0,0.25,2
+Dom,2025-05-25,15:15:00,Cdc Santa Rosa,1–2,Alianza Atlético,Ganó Visita,Estadio Los Chankas,Daniel Ureta,0.1666666666666667,0.5,2
+Dom,2025-05-25,18:00:00,Deportivo Garcilaso,4–0,Juan Pablo Ii,Ganó Local,Estadio Inca Garcilaso de la Vega,Jordy Espinoza,0.6666666666666666,0.0,1
+Jue,2025-06-12,15:00:00,Alianza Atlético,3–0,Comerciantes Unidos,Ganó Local,Estadio Campeones del 36,Kevin Ortega,0.5,0.0,1
+Vie,2025-06-13,15:00:00,Utc,0–2,Atlético Grau,Ganó Visita,Estadio Municipal Germán Contreras Jara,Christian Zegarra,0.0,0.5,2
+Sáb,2025-06-14,13:15:00,Melgar,2–1,Sport Boys,Ganó Local,Estadio de la Universidad Nacional San A...,Julio Quiróz,0.3333333333333333,0.25,1
+Sáb,2025-06-14,15:30:00,Juan Pablo Ii,3–0,Cdc Santa Rosa,Ganó Local,Estadio de la Juventud,Roberto Pérez,0.5,0.0,1
+Vie,2025-06-13,19:00:00,Cusco,0–0,Cienciano,Empate,Estadio Inca Garcilaso de la Vega,Jordy Espinoza,0.0,0.0,0
+Dom,2025-06-15,11:00:00,Sporting Cristal,3–2,Deportivo Garcilaso,Ganó Local,Estadio Alberto Gallardo,Augusto Menéndez,0.5,0.5,1
+Dom,2025-06-15,15:00:00,Ayacucho,0–1,Universitario,Ganó Visita,Estadio Manuel Eloy Molina Robles,Sebastián Lozano,0.0,0.25,2
+Dom,2025-06-15,17:30:00,Binacional,1–1,Alianza Univ,Empate,Estadio Guillermo Briceño Rosamedina,Joel Alarcón,0.1666666666666667,0.25,0
+Sáb,2025-06-14,20:00:00,Alianza Lima,0–0,Sport Huancayo,Empate,Estadio Alejandro Villanueva,Micke Palomino,0.0,0.0,0
+Jue,2025-06-19,15:00:00,Atlético Grau,0–0,Cusco,Empate,Estadio Campeones del 36,Roberto Pérez,0.0,0.0,0
+Mié,2025-06-18,19:00:00,Comerciantes Unidos,0–1,Alianza Lima,Ganó Visita,Estadio Municipal Germán Contreras Jara,Edwin Ordóñez,0.0,0.25,2
