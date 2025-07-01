@@ -225,10 +225,55 @@ if st.button("🔮 Predecir Resultado", use_container_width=True):
     )
     st.balloons()
 
+    # Mostrar precisión del modelo
+from sklearn.metrics import accuracy_score, confusion_matrix
+import seaborn as sns
+
+# Evaluar en el conjunto de prueba
+X_eval = df[["Goles Local", "Goles Visitante"]]
+y_eval = df["Resultado Codificado"]
+_, X_test, _, y_test = train_test_split(X_eval, y_eval, test_size=0.3, random_state=42)
+y_pred = model.predict(X_test)
+accuracy = accuracy_score(y_test, y_pred)
+
+st.markdown("### 📈 Evaluación del Modelo")
+st.markdown(f"<span style='color:#1a237e;font-weight:bold'>Precisión del modelo:</span> <span style='font-size:1.5rem;color:#1a237e;font-weight:bold'>{accuracy*100:.2f}%</span>", unsafe_allow_html=True)
+
+# Mostrar matriz de confusión con botón opcional
+if st.checkbox("🔍 Mostrar matriz de confusión"):
+    conf_matrix = confusion_matrix(y_test, y_pred)
+    st.markdown("#### Matriz de Confusión")
+    fig, ax = plt.subplots()
+    sns.heatmap(conf_matrix, annot=True, fmt="d", cmap="Blues",
+                xticklabels=["Ganó Local", "Empate", "Ganó Visitante"],
+                yticklabels=["Ganó Local", "Empate", "Ganó Visitante"])
+    ax.set_xlabel("Predicción")
+    ax.set_ylabel("Real")
+    st.pyplot(fig)
+
+# Verificar balance de clases
+conteo_clases = np.bincount(df["Resultado Codificado"])
+etiquetas = ["Ganó Local", "Empate", "Ganó Visitante"]
+
+st.markdown("### ⚖️ Distribución de Clases")
+for i, count in enumerate(conteo_clases):
+    st.markdown(f"🔹 <b>{etiquetas[i]}</b>: {count} partidos", unsafe_allow_html=True)
+
+# Mensaje si hay desbalance notorio
+total = sum(conteo_clases)
+porcentajes = [count / total for count in conteo_clases]
+max_porcentaje = max(porcentajes)
+if max_porcentaje > 0.6:
+    st.warning("⚠️ Atención: El dataset está desbalanceado. Una clase representa más del 60% de los datos.")
+
+    
+    st.markdown("### 📌 Valores únicos en la columna Resultado")
+st.write(df["Resultado"].value_counts())
+
 # Pie de página
 st.markdown("""
     <hr style='border-top:1px solid #bbb;margin-top:2rem;margin-bottom:0.5rem;'>
     <div style='text-align:center;color:#888;font-size:0.95rem;'>
-        Desarrollado por <b>Tu Nombre</b> | Proyecto IA - Liga 1 Peruana 2025
+        Desarrollado por <b>Salirrosas Jhordy</b> | Proyecto IA - Liga 1 Peruana 2025
     </div>
     """, unsafe_allow_html=True)
