@@ -93,6 +93,7 @@ def cargar_o_entrenar_modelo():
 # Cargar dataset para uso en la app
 df = pd.read_csv("Liga1Proce.csv")
 model = cargar_o_entrenar_modelo()
+label_encoder = joblib.load("label_encoder.pkl")
 
 # --- INTERFAZ MEJORADA CON LOGOS Y SELECCIÓN EN FILA ---
 st.markdown("""
@@ -165,8 +166,18 @@ if st.button("🔮 Predecir Resultado", use_container_width=True):
     prediccion = model.predict(entrada)[0]
     proba = model.predict_proba(entrada)[0] if hasattr(model, 'predict_proba') else [0,0,0]
 
-    # Asumimos: 0=Empate, 1=Gana Local, 2=Gana Visita
-    etiquetas = [f"Empate", f"{local}", f"{visitante}"]
+    clases = label_encoder.inverse_transform(model.classes_)
+    etiquetas = []
+    for clase in clases:
+        if clase == "Empate":
+            etiquetas.append("Empate")
+        elif clase == "Local":
+            etiquetas.append(local)
+        elif clase == "Visitante":
+            etiquetas.append(visitante)
+        else:
+            etiquetas.append(clase)
+
     colores = ["#616161", "#388e3c", "#d32f2f"]
     if len(proba) == 3:
         proba_dict = dict(zip(model.classes_, proba))
@@ -204,11 +215,13 @@ if st.button("🔮 Predecir Resultado", use_container_width=True):
     with col_visit:
         st.markdown(donut(proba[2], "#d32f2f", f"{proba[2]*100:.1f}% {visitante}"), unsafe_allow_html=True)
 
-    # Mensaje destacado
-    if prediccion == 1:
+    # Mensaje destacado con etiquetas reales
+    resultado_real = label_encoder.inverse_transform([prediccion])[0]
+
+    if resultado_real == "Local":
         resultado = f"🏆 <b>{local}</b> GANARÍA el partido."
         color = "#388e3c"
-    elif prediccion == 0:
+    elif resultado_real == "Empate":
         resultado = "🤝 <b>Empate previsto.</b>"
         color = "#616161"
     else:
@@ -224,6 +237,7 @@ if st.button("🔮 Predecir Resultado", use_container_width=True):
         unsafe_allow_html=True
     )
     st.balloons()
+
 
 # Pie de página
 st.markdown("""

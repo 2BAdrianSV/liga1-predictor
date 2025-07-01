@@ -2,4 +2,5 @@
 __pycache__/
 *.pyc
 *.pkl
+!modelo.pkl
 .DS_Store
